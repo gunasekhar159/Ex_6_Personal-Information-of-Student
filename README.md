@@ -32,7 +32,7 @@ Program to develop personal information for student
 Developed by: M.Gunasekhar
 RegisterNumber:  212221240014
 */
-```
+
 
 ## MainActivity.java:
 
@@ -192,6 +192,7 @@ public class MainActivity extends AppCompatActivity {
     </application>
 
 </manifest>
+```
 ## Output:
 ![image](https://github.com/gunasekhar159/Ex_6_Personal-Information-of-Student/assets/95043391/5f2d8eac-7bd0-4dc5-80fc-f13823386a34)
 
